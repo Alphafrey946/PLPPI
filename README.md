@@ -1,4 +1,4 @@
 # PLPPI
 
 ###
-Code repo for paper Sensorless End-to-End Freehand Three-dimensional Ultrasound Reconstruction with Physics Guided Deep Learning. 
+Code repo for paper: [Sensorless End-to-End Freehand Three-dimensional Ultrasound Reconstruction with Physics Guided Deep Learning](https://ieeexplore.ieee.org/document/10684746). 
